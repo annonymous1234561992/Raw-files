@@ -37,13 +37,22 @@ NODES=(
     "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet"
     "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
     "https://github.com/nosiu/comfyui-instantId-faceswap"
+    "https://github.com/pamparamm/sd-perturbed-attention"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     "https://github.com/cubiq/ComfyUI_InstantID"
     "https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg"
     "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini"
     "https://github.com/asagi4/comfyui-prompt-control"
     "https://github.com/nicofdga/DZ-FaceDetailer"
-    "https://github.com/Gourieff/comfyui-reactor-node"    
+    "https://github.com/Gourieff/comfyui-reactor-node"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/digitaljohn/comfyui-propost"
+    "https://github.com/ai-shizuka/ComfyUI-tbox"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/evanspearman/ComfyMath"
+    "https://github.com/sipherxyz/comfyui-art-venture"
 )
 
 CHECKPOINT_MODELS=(
