@@ -6,7 +6,7 @@
 
 # Packages are installed after nodes so we can fix them...
 
-DEFAULT_WORKFLOW="https://drive.google.com/file/d/1F8gsLKL4kylSxvhMf4J9DHHDw0227Esn/view?usp=sharing"
+DEFAULT_WORKFLOW="https://raw.githubusercontent.com/annonymous1234561992/Raw-files/main/workflow.json"
 
 APT_PACKAGES=(
     #"package-1"
