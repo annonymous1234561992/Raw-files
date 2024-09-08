@@ -21,7 +21,6 @@ PIP_PACKAGES=(
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
-    "https://github.com/zigzag-tech/ComfyUI_IPAdapter_plus"
     "https://github.com/Extraltodeus/ComfyUI-AutomaticCFG"
     "https://github.com/kijai/ComfyUI-DepthAnythingV2"
     "https://github.com/rgthree/rgthree-comfy"
@@ -52,6 +51,7 @@ NODES=(
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/evanspearman/ComfyMath"
     "https://github.com/sipherxyz/comfyui-art-venture"
+    "https://github.com/zigzag-tech/ComfyUI_IPAdapter_plus"
 )
 
 CHECKPOINT_MODELS=(
