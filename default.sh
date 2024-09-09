@@ -135,6 +135,9 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/esrgan" \
         "${ESRGAN_MODELS[@]}"
+
+    # Create ultralytics folder
+    mkdir -p "${WORKSPACE}/storage/stable_diffusion/models/ultralytics"
     provisioning_print_end
 }
 
